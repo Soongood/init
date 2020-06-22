@@ -10,4 +10,4 @@ The project consist of three parts, which related to corresponding directories:
 
 First part "Network" was done on school's Mac, others on a Debian virtual machine.
 
-Full project's task is in the file (init.en.pdf)
+Full project's task is in the file (./init.en.pdf)
