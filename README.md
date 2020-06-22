@@ -1,3 +1,6 @@
-### 42 school's project
+## 42 school's project
 
-It's main goal is 
+The project consist of three parts which related to corresponding directories:
+-Network
+-System
+-Scripts
