@@ -1,4 +1,4 @@
-## 42 school's project
+## Init 42 school's project
 
 Main goal of the project is discovering system and network basic commands, many of the services used on a server machine, as well as a few ideas of scripts that can be useful for SysAdmins on a daily basis.
 
